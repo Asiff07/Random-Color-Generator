@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+div{
+  height: 100px;
+  width: 500px;
+  border: 1px solid white;
+  margin: auto;
+}
+button{
+  background-color: rgb(200, 231, 255) ;
+}
